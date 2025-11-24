@@ -1,3 +1,6 @@
+<img width="960" height="1041" alt="image" src="https://github.com/user-attachments/assets/1df50c83-1c3f-485e-bf76-56c3b0e769e8" />
+
+
 # Opinion Trade Auto Trading Bot
 
 Opinion Trade 플랫폼의 자동 거래 봇입니다.
